@@ -1,2 +1,28 @@
-# 42c93eb7-cleaning-janitorial-competit
-Tired of losing cleaning contracts to competitors you barely know? Most cleaning businesses rely on gut instinct, not data—until now.  This Notion template turns messy competitor rumors into a structured intelligence dashboard. Track pricing, services, reviews, and marketing moves in one place, so you can spot gaps, undercut bids, and win more acco
+# Cleaning & Janitorial Competitor Intelligence Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa5kD26HaQA7BCdI0d0j47)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa5kD26HaQA7BCdI0d0j47)
+
